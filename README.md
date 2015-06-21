@@ -1,1 +1,1 @@
-Testing some publishing for bower
+Testing some publishing for bowergf
