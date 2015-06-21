@@ -1,0 +1,1 @@
+Testing some publishing for bower
